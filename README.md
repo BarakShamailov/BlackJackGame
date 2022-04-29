@@ -1,5 +1,5 @@
 # BlackJack Game
-Blackjack game 'ritten in python with PyCharm IDE.
+Blackjack game written in python with PyCharm IDE.
 
 ## Game Play Logic
 
