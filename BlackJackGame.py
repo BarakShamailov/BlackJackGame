@@ -186,7 +186,6 @@ def replay():
 
 
 if __name__ == '__main__':
-    game_continue = 1
     while True:
         # Print an opening statement
         print('\n'*100)
