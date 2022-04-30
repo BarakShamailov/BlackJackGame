@@ -17,7 +17,7 @@ class Card:
         pass
 
     def __str__(self):
-        return f'{self.rank} of {self.suit} '
+        return f'{self.rank} of {self.suit}'
         pass
 
 
